@@ -1,0 +1,5 @@
+*.jar
+target/
+.idea/
+test_strings.txt
+src/Parser
